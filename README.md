@@ -25,9 +25,15 @@ Available trees:
 
 *(FR only for now: Attack Sequence)*
 
-### Coming soon
+### Kill Team (3rd edition / v3)
 
-- Kill Team
+`killteam/v3/<language>/<format>/`
+
+- **fr/** — French version (English coming later)
+
+Available trees:
+- **Puis-je tirer sur cette cible ?** — visibilité, décor interposé, couvert, masqué, ordre de la cible
+- **Règles de Promontoire** — bonus de hauteur, couvert et masqué depuis/vers un promontoire
 
 ## How to use
 
