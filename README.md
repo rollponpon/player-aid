@@ -29,11 +29,12 @@ Available trees:
 
 `killteam/v3/<language>/<format>/`
 
-- **fr/** — French version (English coming later)
+- **fr/** — French version
+- **en/** — English version
 
 Available trees:
-- **Puis-je tirer sur cette cible ?** — visibilité, décor interposé, couvert, masqué, ordre de la cible
-- **Règles de Promontoire** — bonus de hauteur, couvert et masqué depuis/vers un promontoire
+- **Can I Shoot This Target? / Puis-je tirer sur cette cible ?** — visibility, intervening terrain, cover, obscured, target's order
+- **Vantage Terrain Rules / Règles de Promontoire** — height bonuses, cover and obscured to/from vantage terrain
 
 ## How to use
 
