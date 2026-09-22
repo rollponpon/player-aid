@@ -70,3 +70,7 @@ Each game keeps its own rules-version folder (e.g. `warhammer40k/v11`, `killteam
 ## License
 
 The posters and layouts in this repository are released under the [MIT License](LICENSE). This covers the original content produced here — it does not grant any rights to the underlying game rules or publishers' trademarks (see disclaimer above).
+
+## Feedback
+
+Spotted a mistake, or want to suggest a term correction or a new aid? Please [open an issue](https://github.com/rollponpon/player-aid/issues).
