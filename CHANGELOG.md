@@ -6,6 +6,14 @@ Entries are grouped by date. Each game keeps its own rules-version folder (e.g. 
 
 ## [Unreleased]
 
+## 2026-09-22 (2)
+
+### Added
+- Trench Crusade v1.1 (FR): *Puis-je tirer, et sur qui ?* decision tree
+- Trench Crusade v1.1 (FR): *Puis-je déclarer et réussir une Charge ?* decision tree
+- Trench Crusade v1.1 (FR): *Résolution & Blessure* reference sheet (core dice mechanic, Blood/Blessing markers)
+- Trench Crusade v1.1 (FR): *Ma bande doit-elle tester le Moral ?* decision tree
+
 ## 2026-09-22
 
 ### Added

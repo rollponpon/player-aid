@@ -47,6 +47,18 @@ Available aids:
 - **Puis-je déclarer une charge ?** — decision tree for charge eligibility, legal targets and success/failure
 - **Cartes, Ordres & Priorité** — reference sheet for three independent priority rules: one card per trigger, who declares first in simultaneous actions, and reroll priority
 
+### Trench Crusade (règles digitales v1.1)
+
+`trenchcrusade/v1.1/<language>/<format>/`
+
+- **fr/** — French version
+
+Available aids:
+- **Puis-je tirer, et sur qui ?** — decision tree for shooting eligibility, line of sight/range, and cumulative modifiers
+- **Puis-je déclarer et réussir une Charge ?** — decision tree for charge eligibility, interposed enemies, and the charge move
+- **Résolution & Blessure** — reference sheet for the core resolution/wound roll mechanic (dice pool, modifiers, Blood/Blessing markers)
+- **Ma bande doit-elle tester le Moral ?** — decision tree for the Moral test, Shaken bands, and rout
+
 ## How to use
 
 These posters are meant to be followed arrow by arrow: start at the top, answer Yes/No at each question, and follow the colour down to the result.
