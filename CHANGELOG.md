@@ -6,6 +6,11 @@ Entries are grouped by date. Each game keeps its own rules-version folder (e.g. 
 
 ## [Unreleased]
 
+## 2026-09-22 (3)
+
+### Added
+- A Song of Ice and Fire: TMG v2021 (EN): English translations of all three posters — *Attack Sequence*, *Can I Declare a Charge?*, *Cards, Orders & Priority* — terminology sourced from the official English rulebook
+
 ## 2026-09-22 (2)
 
 ### Added
