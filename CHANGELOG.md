@@ -6,6 +6,14 @@ Entries are grouped by date. Each game keeps its own rules-version folder (e.g. 
 
 ## [Unreleased]
 
+## 2026-09-22 (4)
+
+### Added
+- Trench Crusade v1.1 (FR): *Marqueurs Sang & Bénédiction* reference sheet (marker economy, Massacre roll)
+- Trench Crusade v1.1 (FR): *Déplacements spéciaux* reference sheet (climbing, jumping, falling)
+- Trench Crusade v1.1 (FR): *À terre* consequences added to the *Résolution & Blessure* reference sheet
+- Trench Crusade v1.1 (FR): combined PDF now includes all six posters
+
 ## 2026-09-22 (3)
 
 ### Added

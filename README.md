@@ -56,8 +56,10 @@ Available aids:
 Available aids:
 - **Puis-je tirer, et sur qui ?** — decision tree for shooting eligibility, line of sight/range, and cumulative modifiers
 - **Puis-je déclarer et réussir une Charge ?** — decision tree for charge eligibility, interposed enemies, and the charge move
-- **Résolution & Blessure** — reference sheet for the core resolution/wound roll mechanic (dice pool, modifiers, Blood/Blessing markers)
+- **Résolution & Blessure** — reference sheet for the core resolution/wound roll mechanic, plus À terre (knocked down) consequences
+- **Marqueurs Sang & Bénédiction** — reference sheet for the Blood/Blessing marker economy and the Massacre roll
 - **Ma bande doit-elle tester le Moral ?** — decision tree for the Moral test, Shaken bands, and rout
+- **Déplacements spéciaux** — reference sheet for climbing, jumping and falling
 
 ## How to use
 
