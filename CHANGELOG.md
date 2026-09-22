@@ -6,6 +6,11 @@ Entries are grouped by date. Each game keeps its own rules-version folder (e.g. 
 
 ## [Unreleased]
 
+## 2026-09-23 (2)
+
+### Added
+- Kill Team v3 (FR): French translations of *Actions & PA* and *Manœuvres & Contre-attaque : Chronologie*, terminology sourced from `kt_lite_rules_fr.pdf` and confirmed by the user for three terms not covered there (Action Universelle, Ramasser/Placer un marqueur, étape Manœuvres)
+
 ## 2026-09-23
 
 ### Added
