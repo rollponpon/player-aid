@@ -6,7 +6,7 @@ Unofficial, fan-made content. This project is not affiliated with, or endorsed b
 
 ## Contents
 
-### Warhammer 40,000 (10th edition / v11)
+### Warhammer 40,000 (11th edition / v11)
 
 `warhammer40k/v11/<language>/<format>/`
 

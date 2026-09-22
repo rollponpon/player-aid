@@ -6,6 +6,10 @@ Entries are grouped by date. Each game keeps its own rules-version folder (e.g. 
 
 ## [Unreleased]
 
+## 2026-09-22
+
+Minor changes.
+
 ## 2026-09-21
 
 ### Added
