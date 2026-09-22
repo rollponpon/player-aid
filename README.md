@@ -31,9 +31,11 @@ Available aids:
 - **fr/** — French version
 - **en/** — English version
 
-Available trees:
+Available aids:
 - **Can I Shoot This Target? / Puis-je tirer sur cette cible ?** — visibility, intervening terrain, cover, obscured, target's order
 - **Vantage Terrain Rules / Règles de Promontoire** — height bonuses, cover and obscured to/from vantage terrain
+- **Actions & AP** (EN only) — reference sheet for the Universal Actions, their AP costs, and the movement-action combo rule
+- **Gambit & Counteract Timing** (EN only) — reference sheet for the Strategy phase Gambit step and the Counteract rule
 
 ### A Song of Ice and Fire: Tabletop Miniatures Game (v2021)
 

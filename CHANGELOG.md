@@ -6,6 +6,12 @@ Entries are grouped by date. Each game keeps its own rules-version folder (e.g. 
 
 ## [Unreleased]
 
+## 2026-09-23
+
+### Added
+- Kill Team v3 (EN): *Actions & AP* reference sheet (Universal Actions, AP costs, movement-action combo rule)
+- Kill Team v3 (EN): *Gambit & Counteract Timing* reference sheet (Strategy phase Gambit step, Counteract)
+
 ## 2026-09-22 (5)
 
 ### Added
