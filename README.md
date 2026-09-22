@@ -2,7 +2,7 @@
 
 Illustrated player aids / decision trees to help newer players follow the rules step by step, without having to dig back through the rulebook.
 
-Unofficial, fan-made content. This project is not affiliated with, or endorsed by, Games Workshop. Warhammer 40,000 and Kill Team are trademarks of Games Workshop Limited.
+Unofficial, fan-made content. This project is not affiliated with, or endorsed by, any of the publishers below. Warhammer 40,000 and Kill Team are trademarks of Games Workshop Limited. A Song of Ice and Fire: Tabletop Miniatures Game is a trademark of CMON Global Limited.
 
 ## Contents
 
@@ -35,6 +35,15 @@ Available trees:
 Available trees:
 - **Can I Shoot This Target? / Puis-je tirer sur cette cible ?** — visibility, intervening terrain, cover, obscured, target's order
 - **Vantage Terrain Rules / Règles de Promontoire** — height bonuses, cover and obscured to/from vantage terrain
+
+### A Song of Ice and Fire: Tabletop Miniatures Game (v2021)
+
+`asoiaf/v2021/<language>/<format>/`
+
+- **fr/** — French version
+
+Available aids:
+- **Séquence d'attaque** — reference sheet for Touche/Défense/Blessures/Test de Panique, plus Combat Bonuses (Charge/Flank/Rear)
 
 ## How to use
 

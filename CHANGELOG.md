@@ -8,7 +8,10 @@ Entries are grouped by date. Each game keeps its own rules-version folder (e.g. 
 
 ## 2026-09-22
 
-Minor changes.
+### Added
+- A Song of Ice and Fire: TMG v2021 (FR): *Séquence d'attaque* reference sheet (Touche/Défense/Blessures/Test de Panique, Bonus de Combat)
+
+Minor changes to Warhammer 40k and Kill Team posters (header redesign, typo fixes).
 
 ## 2026-09-21
 
