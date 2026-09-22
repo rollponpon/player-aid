@@ -6,6 +6,11 @@ Entries are grouped by date. Each game keeps its own rules-version folder (e.g. 
 
 ## [Unreleased]
 
+## 2026-09-22 (5)
+
+### Added
+- Trench Crusade v1.1 (EN): English translations of all six posters — *Can I Shoot This Target?*, *Can I Declare and Succeed at a Charge?*, *Success & Injury Rolls*, *Blood & Blessing Markers*, *Does My Warband Need a Morale Check?*, *Special Movement* — terminology sourced from the official English digital rulebook (including official terms that differ from a literal translation, e.g. Bloodbath Roll, Warband)
+
 ## 2026-09-22 (4)
 
 ### Added

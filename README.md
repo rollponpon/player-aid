@@ -47,19 +47,20 @@ Available aids:
 - **Puis-je déclarer une charge ? / Can I Declare a Charge?** — decision tree for charge eligibility, valid targets and success/failure
 - **Cartes, Ordres & Priorité / Cards, Orders & Priority** — reference sheet for three independent priority rules: one effect per trigger, who declares first in simultaneous actions, and reroll priority
 
-### Trench Crusade (règles digitales v1.1)
+### Trench Crusade (digital rulebook v1.1)
 
 `trenchcrusade/v1.1/<language>/<format>/`
 
 - **fr/** — French version
+- **en/** — English version
 
 Available aids:
-- **Puis-je tirer, et sur qui ?** — decision tree for shooting eligibility, line of sight/range, and cumulative modifiers
-- **Puis-je déclarer et réussir une Charge ?** — decision tree for charge eligibility, interposed enemies, and the charge move
-- **Résolution & Blessure** — reference sheet for the core resolution/wound roll mechanic, plus À terre (knocked down) consequences
-- **Marqueurs Sang & Bénédiction** — reference sheet for the Blood/Blessing marker economy and the Massacre roll
-- **Ma bande doit-elle tester le Moral ?** — decision tree for the Moral test, Shaken bands, and rout
-- **Déplacements spéciaux** — reference sheet for climbing, jumping and falling
+- **Puis-je tirer, et sur qui ? / Can I Shoot This Target?** — decision tree for shooting eligibility, line of sight/range, and cumulative modifiers
+- **Puis-je déclarer et réussir une Charge ? / Can I Declare and Succeed at a Charge?** — decision tree for charge eligibility, interposing enemies, and the charge move
+- **Résolution & Blessure / Success & Injury Rolls** — reference sheet for the core Success/Injury Roll mechanic, plus Down (knocked down) consequences
+- **Marqueurs Sang & Bénédiction / Blood & Blessing Markers** — reference sheet for the marker economy and the Bloodbath Roll
+- **Ma bande doit-elle tester le Moral ? / Does My Warband Need a Morale Check?** — decision tree for the Morale Check, Shaken Warbands, and fleeing
+- **Déplacements spéciaux / Special Movement** — reference sheet for climbing, jumping and falling
 
 ## How to use
 
