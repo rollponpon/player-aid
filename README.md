@@ -17,13 +17,12 @@ Each language folder contains:
 - `png/` — the posters as image files, ready to print or view on screen
 - `pdf/` — the same posters bundled into a single PDF
 
-Available trees:
+Available aids:
 - **Can I Shoot This Target? / Puis-je tirer sur cette cible ?** — visibility, engagement, range, cover, hidden
 - **Visibility: Obscuring Terrain & Hidden / Terrain occultant & Caché** — companion illustration
 - **Can I Declare a Charge? / Puis-je déclarer une charge ?**
 - **Which Move Should I Make? / Quel mouvement choisir ?**
-
-*(FR only for now: Attack Sequence)*
+- **Attack Sequence / Séquence d'attaque** — reference sheet for Hit/Wound/Save/Damage
 
 ### Kill Team (3rd edition / v3)
 
