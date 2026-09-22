@@ -10,6 +10,8 @@ Entries are grouped by date. Each game keeps its own rules-version folder (e.g. 
 
 ### Added
 - A Song of Ice and Fire: TMG v2021 (FR): *Séquence d'attaque* reference sheet (Touche/Défense/Blessures/Test de Panique, Bonus de Combat)
+- A Song of Ice and Fire: TMG v2021 (FR): *Puis-je déclarer une charge ?* decision tree
+- A Song of Ice and Fire: TMG v2021 (FR): *Cartes, Ordres & Priorité* reference sheet (one card per trigger, simultaneous-action priority, reroll priority)
 
 Minor changes to Warhammer 40k and Kill Team posters (header redesign, typo fixes).
 

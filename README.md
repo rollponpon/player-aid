@@ -44,6 +44,8 @@ Available trees:
 
 Available aids:
 - **Séquence d'attaque** — reference sheet for Touche/Défense/Blessures/Test de Panique, plus Combat Bonuses (Charge/Flank/Rear)
+- **Puis-je déclarer une charge ?** — decision tree for charge eligibility, legal targets and success/failure
+- **Cartes, Ordres & Priorité** — reference sheet for three independent priority rules: one card per trigger, who declares first in simultaneous actions, and reroll priority
 
 ## How to use
 
@@ -52,3 +54,7 @@ These posters are meant to be followed arrow by arrow: start at the top, answer 
 ## Versioning
 
 Each game keeps its own rules-version folder (e.g. `warhammer40k/v11`, `killteam/v3`). When a ruleset changes enough to need an update, a new version folder is added alongside the old one rather than overwriting it. See [CHANGELOG.md](CHANGELOG.md) for the history of what was added and when.
+
+## License
+
+The posters and layouts in this repository are released under the [MIT License](LICENSE). This covers the original content produced here — it does not grant any rights to the underlying game rules or publishers' trademarks (see disclaimer above).
