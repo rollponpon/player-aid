@@ -6,6 +6,13 @@ Entries are grouped by date. Each game keeps its own rules-version folder (e.g. 
 
 ## [Unreleased]
 
+## 2026-09-24 (2)
+
+### Added
+- Star Wars: Shatterpoint (v2023, EN): English translations of all four posters — *Making an Attack*, *The Dice & the Combat Tree*, *Conditions*, *Wounded, Injured & Defeated* — sourced from `SWP01_CoreRules_01.09.26.pdf` (a more recent printing than the French `vf-shatterpoint-corerules-06-02-23.pdf`)
+- Cross-checked the two rulebooks for the content these posters cover: terminology differs in several places (e.g. Maîtrise → Expertise, Touche → Strike, Vigueur → Stamina, Résistance → Durability, États → Conditions, Entravé → Pinned) but no mechanical differences were found, so the FR posters did not need any changes
+- Combined PDF for the four EN posters
+
 ## 2026-09-24
 
 ### Added

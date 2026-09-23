@@ -64,17 +64,18 @@ Available aids:
 - **Ma bande doit-elle tester le Moral ? / Does My Warband Need a Morale Check?** — decision tree for the Morale Check, Shaken Warbands, and fleeing
 - **Déplacements spéciaux / Special Movement** — reference sheet for climbing, jumping and falling
 
-### Star Wars: Shatterpoint (règles de base / v2023)
+### Star Wars: Shatterpoint (core rules / v2023)
 
 `shatterpoint/v2023/<language>/<format>/`
 
-- **fr/** — French version
+- **fr/** — French version (règles de base, based on the 2023 rulebook)
+- **en/** — English version (based on the more recent 2026 rulebook — same rules, no mechanical differences found between the two printings)
 
 Available aids:
-- **Résoudre une attaque** — reference sheet for the full attack sequence: dice pools, modifiers, hit/block comparison, combat tree, damage
-- **Les Dés & l'Arbre de Combat** — companion sheet for the attack/defense die faces, how to walk a unit's combat tree, and directed vs. personal effects
-- **États** — reference sheet for the four independent conditions (Contraint, Désarmé, Exposé, Entravé)
-- **Blessé, Estropié & Vaincu** — reference sheet for the damage → wounded → injured → defeated progression
+- **Résoudre une attaque / Making an Attack** — reference sheet for the full attack sequence: dice pools, modifiers, hit/block comparison, combat tree, damage
+- **Les Dés & l'Arbre de Combat / The Dice & the Combat Tree** — companion sheet for the attack/defense die faces, how to walk a unit's combat tree, and directed vs. personal effects
+- **États / Conditions** — reference sheet for the four independent conditions (Strained, Disarmed, Exposed, Pinned)
+- **Blessé, Estropié & Vaincu / Wounded, Injured & Defeated** — reference sheet for the damage → wounded → injured → defeated progression
 
 ## How to use
 
