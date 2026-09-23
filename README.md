@@ -2,7 +2,7 @@
 
 Illustrated player aids / decision trees to help newer players follow the rules step by step, without having to dig back through the rulebook.
 
-Unofficial, fan-made content. This project is not affiliated with, or endorsed by, any of the publishers below. Warhammer 40,000 and Kill Team are trademarks of Games Workshop Limited. A Song of Ice and Fire: Tabletop Miniatures Game is a trademark of CMON Global Limited.
+Unofficial, fan-made content. This project is not affiliated with, or endorsed by, any of the publishers below. Warhammer 40,000 and Kill Team are trademarks of Games Workshop Limited. A Song of Ice and Fire: Tabletop Miniatures Game is a trademark of CMON Global Limited. Star Wars: Shatterpoint is a trademark of Lucasfilm Ltd., published by Atomic Mass Games.
 
 ## Contents
 
@@ -63,6 +63,18 @@ Available aids:
 - **Marqueurs Sang & Bénédiction / Blood & Blessing Markers** — reference sheet for the marker economy and the Bloodbath Roll
 - **Ma bande doit-elle tester le Moral ? / Does My Warband Need a Morale Check?** — decision tree for the Morale Check, Shaken Warbands, and fleeing
 - **Déplacements spéciaux / Special Movement** — reference sheet for climbing, jumping and falling
+
+### Star Wars: Shatterpoint (règles de base / v2023)
+
+`shatterpoint/v2023/<language>/<format>/`
+
+- **fr/** — French version
+
+Available aids:
+- **Résoudre une attaque** — reference sheet for the full attack sequence: dice pools, modifiers, hit/block comparison, combat tree, damage
+- **Les Dés & l'Arbre de Combat** — companion sheet for the attack/defense die faces, how to walk a unit's combat tree, and directed vs. personal effects
+- **États** — reference sheet for the four independent conditions (Contraint, Désarmé, Exposé, Entravé)
+- **Blessé, Estropié & Vaincu** — reference sheet for the damage → wounded → injured → defeated progression
 
 ## How to use
 

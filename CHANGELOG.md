@@ -6,6 +6,16 @@ Entries are grouped by date. Each game keeps its own rules-version folder (e.g. 
 
 ## [Unreleased]
 
+## 2026-09-24
+
+### Added
+- New game: Star Wars: Shatterpoint (règles de base / v2023, FR)
+- *Résoudre une attaque* reference sheet (full attack sequence, condensed from the rulebook's 10 official steps into 6 stages)
+- *Les Dés & l'Arbre de Combat* companion sheet (die faces, combat tree traversal, directed/personal effects)
+- *États* reference sheet (Contraint, Désarmé, Exposé, Entravé — four independent conditions)
+- *Blessé, Estropié & Vaincu* reference sheet (damage progression, with its cyclical nature noted)
+- Combined PDF for all four posters
+
 ## 2026-09-23 (2)
 
 ### Added
