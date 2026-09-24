@@ -6,6 +6,15 @@ Entries are grouped by date. Each game keeps its own rules-version folder (e.g. 
 
 ## [Unreleased]
 
+## 2026-09-24 (3)
+
+### Added
+- New game: Warhammer Age of Sigmar (règles de base / v2026, FR), sourced from `fra_aos.pdf` and cross-checked against the September 2026 rules-update/errata document for the covered content
+- *Séquence d'Attaque & de Dégâts* reference sheet (Touche/Blessure/Sauvegarde/Dégâts, Sauvegarde de Protection, allocation des dégâts)
+- *Quelle unité combat ensuite ?* decision tree (Phase de Mêlée fight order, Frappe en Premier/Frappe en Dernier priority)
+- *Aptitudes : Chronologie & Règle de Un* reference sheet (Annonce/Réactions/Effet timing, Règle de Un, chronologies "Une Fois Par")
+- Combined PDF for all three posters
+
 ## 2026-09-24 (2)
 
 ### Added

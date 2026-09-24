@@ -2,7 +2,7 @@
 
 Illustrated player aids / decision trees to help newer players follow the rules step by step, without having to dig back through the rulebook.
 
-Unofficial, fan-made content. This project is not affiliated with, or endorsed by, any of the publishers below. Warhammer 40,000 and Kill Team are trademarks of Games Workshop Limited. A Song of Ice and Fire: Tabletop Miniatures Game is a trademark of CMON Global Limited. Star Wars: Shatterpoint is a trademark of Lucasfilm Ltd., published by Atomic Mass Games.
+Unofficial, fan-made content. This project is not affiliated with, or endorsed by, any of the publishers below. Warhammer 40,000, Kill Team and Warhammer Age of Sigmar are trademarks of Games Workshop Limited. A Song of Ice and Fire: Tabletop Miniatures Game is a trademark of CMON Global Limited. Star Wars: Shatterpoint is a trademark of Lucasfilm Ltd., published by Atomic Mass Games.
 
 ## Contents
 
@@ -76,6 +76,17 @@ Available aids:
 - **Les Dés & l'Arbre de Combat / The Dice & the Combat Tree** — companion sheet for the attack/defense die faces, how to walk a unit's combat tree, and directed vs. personal effects
 - **États / Conditions** — reference sheet for the four independent conditions (Strained, Disarmed, Exposed, Pinned)
 - **Blessé, Estropié & Vaincu / Wounded, Injured & Defeated** — reference sheet for the damage → wounded → injured → defeated progression
+
+### Warhammer Age of Sigmar (règles de base / v2026)
+
+`ageofsigmar/v2026/<language>/<format>/`
+
+- **fr/** — French version (based on the September 2026 rules update)
+
+Available aids:
+- **Séquence d'Attaque & de Dégâts** — reference sheet for Touche/Blessure/Sauvegarde/Dégâts, Sauvegarde de Protection, and allocating damage
+- **Quelle unité combat ensuite ?** — decision tree for choosing a unit to fight in the Combat phase, incl. Strike First / Strike Last priority
+- **Aptitudes : Chronologie & Règle de Un** — reference sheet for the Announce/Reactions/Effect timing, the Rule of One, and "Once Per" timings
 
 ## How to use
 
