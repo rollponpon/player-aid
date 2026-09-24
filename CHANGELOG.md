@@ -6,6 +6,15 @@ Entries are grouped by date. Each game keeps its own rules-version folder (e.g. 
 
 ## [Unreleased]
 
+## 2026-09-24 (4)
+
+### Added
+- Warhammer Age of Sigmar (v2026, EN): English translations of all three posters — *Attack & Damage Sequence*, *Which Unit Fights Next?*, *Abilities: Timing & the Rules of One* — sourced from `ang_aos.pdf`, terminology cross-checked against the official English text (e.g. Strike-first/Strike-last hyphenation, Ward Save, Rend, Health, coherent group)
+- Combined PDF for the three EN posters
+
+### Fixed
+- Warhammer Age of Sigmar (v2026, FR): the *Règles de Un* panel on *Aptitudes : Chronologie & Règle de Un* was rebuilt from the actual rulebook text — it previously used an invented "usage side / effect side" structure instead of the book's own three rules (1 Core ability per phase max, same ability once per phase, same passive ability once at a time); renamed the poster's panel/header to the correct plural *Règles de Un* to match
+
 ## 2026-09-24 (3)
 
 ### Added

@@ -77,16 +77,17 @@ Available aids:
 - **États / Conditions** — reference sheet for the four independent conditions (Strained, Disarmed, Exposed, Pinned)
 - **Blessé, Estropié & Vaincu / Wounded, Injured & Defeated** — reference sheet for the damage → wounded → injured → defeated progression
 
-### Warhammer Age of Sigmar (règles de base / v2026)
+### Warhammer Age of Sigmar (core rules / v2026)
 
 `ageofsigmar/v2026/<language>/<format>/`
 
 - **fr/** — French version (based on the September 2026 rules update)
+- **en/** — English version
 
 Available aids:
-- **Séquence d'Attaque & de Dégâts** — reference sheet for Touche/Blessure/Sauvegarde/Dégâts, Sauvegarde de Protection, and allocating damage
-- **Quelle unité combat ensuite ?** — decision tree for choosing a unit to fight in the Combat phase, incl. Strike First / Strike Last priority
-- **Aptitudes : Chronologie & Règle de Un** — reference sheet for the Announce/Reactions/Effect timing, the Rule of One, and "Once Per" timings
+- **Séquence d'Attaque & de Dégâts / Attack & Damage Sequence** — reference sheet for Hit/Wound/Save/Damage, Ward Saves, and allocating damage
+- **Quelle unité combat ensuite ? / Which Unit Fights Next?** — decision tree for choosing a unit to fight in the Combat Phase, incl. Strike-first / Strike-last priority
+- **Aptitudes : Chronologie & Règles de Un / Abilities: Timing & the Rules of One** — reference sheet for the Declare/Reactions/Effect timing, the Rules of One, and "Once Per" timings
 
 ## How to use
 
