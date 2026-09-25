@@ -2,7 +2,7 @@
 
 Illustrated player aids / decision trees to help newer players follow the rules step by step, without having to dig back through the rulebook.
 
-Unofficial, fan-made content. This project is not affiliated with, or endorsed by, any of the publishers below. Warhammer 40,000, Kill Team and Warhammer Age of Sigmar are trademarks of Games Workshop Limited. A Song of Ice and Fire: Tabletop Miniatures Game is a trademark of CMON Global Limited. Star Wars: Shatterpoint is a trademark of Lucasfilm Ltd., published by Atomic Mass Games.
+Unofficial, fan-made content. This project is not affiliated with, or endorsed by, any of the publishers below. Warhammer 40,000, Kill Team and Warhammer Age of Sigmar are trademarks of Games Workshop Limited. A Song of Ice and Fire: Tabletop Miniatures Game is a trademark of CMON Global Limited. Star Wars: Shatterpoint is a trademark of Lucasfilm Ltd., published by Atomic Mass Games. Marvel: Crisis Protocol is a trademark of Marvel, published by Atomic Mass Games.
 
 ## Contents
 
@@ -89,6 +89,17 @@ Available aids:
 - **Séquence d'Attaque & de Dégâts / Attack & Damage Sequence** — reference sheet for Hit/Wound/Save/Damage, Ward Saves, and allocating damage
 - **Quelle unité combat ensuite ? / Which Unit Fights Next?** — decision tree for choosing a unit to fight in the Combat Phase, incl. Strike-first / Strike-last priority
 - **Aptitudes : Chronologie & Règles de Un / Abilities: Timing & the Rules of One** — reference sheet for the Declare/Reactions/Effect timing, the Rules of One, and "Once Per" timings
+
+### Marvel: Crisis Protocol (Revised Core Set / v2026)
+
+`crisisprotocol/v2026/<language>/<format>/`
+
+- **fr/** — French version
+
+Available aids:
+- **Séquence d'Attaque** — reference sheet for the 14 official attack steps, condensed into 6 stages (dice pools, Criticals, Modify Dice, success, damage)
+- **États Spéciaux** — glossary of the 10 special conditions and their effects
+- **Terrain & Déplacements Spéciaux** — the 4 special movement types (Throw, Push, Place, Climb), Cover requirements, and the Dodge roll procedure
 
 ## How to use
 

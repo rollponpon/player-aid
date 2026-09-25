@@ -6,6 +6,18 @@ Entries are grouped by date. Each game keeps its own rules-version folder (e.g. 
 
 ## [Unreleased]
 
+## 2026-09-26
+
+### Added
+- New game: Marvel: Crisis Protocol (Revised Core Set / v2026, FR), sourced from `AMGMCP143FR_REGLESp.pdf`
+- *Séquence d'Attaque* reference sheet (the official 14-step attack procedure condensed into 6 stages, incl. a callout for the rulebook's own "commonly mistaken rule" about Critical bonus dice)
+- *États Spéciaux* reference sheet (all 10 special conditions)
+- *Terrain & Déplacements Spéciaux* reference sheet (Throw/Push/Place/Climb, Cover, and the Dodge roll procedure)
+- Combined PDF for all three posters
+
+### Note
+- No GitHub issues existed yet for this game when checked (per the workflow's updated §2 guidance on checking community signal first). The rulebook's own "Commonly Mistaken Rules" callout was used instead as a first-party signal for what to emphasize on the Attack Sequence poster.
+
 ## 2026-09-25
 
 ### Added
