@@ -6,6 +6,15 @@ Entries are grouped by date. Each game keeps its own rules-version folder (e.g. 
 
 ## [Unreleased]
 
+## 2026-09-26 (2)
+
+### Added
+- Marvel: Crisis Protocol (v2026, EN): English translations of all three posters — *Attack Sequence*, *Special Conditions*, *Terrain & Special Movement* — sourced from `CP143en_RevisedCoreSet_Rulebook_08_2026.pdf`
+- Combined PDF for the three EN posters
+
+### Note
+- Found a genuine mechanical discrepancy (not just terminology) between the FR and EN rulebooks: the Dodge roll's collision damage is "size of the thrown element/character + 1" in the French rulebook, but a flat "3 damage" in the English one — confirmed consistent within each language across both the prose explanation and the numbered rules list. Each poster follows its own language's official text; flagged here rather than silently picking one.
+
 ## 2026-09-26
 
 ### Added

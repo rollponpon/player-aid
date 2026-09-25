@@ -95,11 +95,14 @@ Available aids:
 `crisisprotocol/v2026/<language>/<format>/`
 
 - **fr/** — French version
+- **en/** — English version (see note below on a rules difference between the two printings)
 
 Available aids:
-- **Séquence d'Attaque** — reference sheet for the 14 official attack steps, condensed into 6 stages (dice pools, Criticals, Modify Dice, success, damage)
-- **États Spéciaux** — glossary of the 10 special conditions and their effects
-- **Terrain & Déplacements Spéciaux** — the 4 special movement types (Throw, Push, Place, Climb), Cover requirements, and the Dodge roll procedure
+- **Séquence d'Attaque / Attack Sequence** — reference sheet for the 14 official attack steps, condensed into 6 stages (dice pools, Criticals, Modify Dice, success, damage)
+- **États Spéciaux / Special Conditions** — glossary of the 10 special conditions and their effects
+- **Terrain & Déplacements Spéciaux / Terrain & Special Movement** — the 4 special movement types (Throw, Push, Place, Climb), Cover requirements, and the Dodge roll procedure
+
+**Note:** the FR and EN rulebooks disagree on the Dodge roll's collision damage — FR uses "size of the thrown element + 1", EN states a flat "3 damage" (confirmed in both the prose and the numbered rules list in each language). Each poster follows its own language's official text rather than reconciling the two.
 
 ## How to use
 
