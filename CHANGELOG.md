@@ -6,6 +6,15 @@ Entries are grouped by date. Each game keeps its own rules-version folder (e.g. 
 
 ## [Unreleased]
 
+## 2026-09-25
+
+### Added
+- A Song of Ice and Fire: TMG v2021 (FR & EN): *Terrain : Mots-Clés & Exemples / Terrain: Keywords & Examples* — glossary of all 11 Terrain keywords plus a lookup table of example Terrain pieces, sourced separately from each language's own rulebook (`ASOIAF-Regles-FR-v2021.pdf` / `Rulebook_2021.pdf`)
+- Combined PDFs updated to include the new poster (4 pages each)
+
+### Note
+- The FR and EN rulebooks disagree on the keywords for two Terrain examples: **Forest** (FR: Cover, Rough — EN: Cover, Fortified) and **Hedge** (FR: Cover, Rough, Hindering — EN: Cover, Destructible, Rough). Each poster faithfully follows its own language's official text rather than reconciling the two; worth flagging to players who compare notes across languages.
+
 ## 2026-09-24 (4)
 
 ### Added

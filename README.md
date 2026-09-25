@@ -48,6 +48,7 @@ Available aids:
 - **Séquence d'attaque / Attack Sequence** — reference sheet for Touche/Défense/Blessures/Test de Panique (Hit/Defense/Wounds/Panic), plus Combat Bonuses (Charge/Flank/Rear)
 - **Puis-je déclarer une charge ? / Can I Declare a Charge?** — decision tree for charge eligibility, valid targets and success/failure
 - **Cartes, Ordres & Priorité / Cards, Orders & Priority** — reference sheet for three independent priority rules: one effect per trigger, who declares first in simultaneous actions, and reroll priority
+- **Terrain : Mots-Clés & Exemples / Terrain: Keywords & Examples** — glossary of the 11 Terrain keywords and their effects, plus a lookup table of example Terrain pieces
 
 ### Trench Crusade (digital rulebook v1.1)
 
