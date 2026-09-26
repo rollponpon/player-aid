@@ -6,6 +6,19 @@ Entries are grouped by date. Each game keeps its own rules-version folder (e.g. 
 
 ## [Unreleased]
 
+## 2026-09-26 (3)
+
+### Added
+- New game: Star Wars: Legion (core rulebook, FR), sourced from `sw_legion_fr.pdf` (rulebooks now sourced from `D:\IA\rulebooks\atomicmass\starwars-legion\`, a new location separate from the project root)
+- *Séquence d'Attaque Complète* reference sheet (the official 11-step attack sequence condensed into 7 stages — the densest pipeline covered in this project to date)
+- *Phase de Commandement & Priorité* reference sheet (Command Card play/resolution, priority pip-count tiebreak, Orders, Order Pool, Pass Pool)
+- *Suppression & Panique* reference sheet (Rally roll, Suppressed/Panicked thresholds, borrowed courage for the Panic check, null courage)
+- *Terrain & Couvert* reference sheet (3 terrain categories, 3 movement effects, Cover values, terrain height)
+- Combined PDF for all four posters
+
+### Note
+- No GitHub issues existed for this game when checked (repo currently has zero issues, open or closed).
+
 ## 2026-09-26 (2)
 
 ### Added

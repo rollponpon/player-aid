@@ -2,7 +2,7 @@
 
 Illustrated player aids / decision trees to help newer players follow the rules step by step, without having to dig back through the rulebook.
 
-Unofficial, fan-made content. This project is not affiliated with, or endorsed by, any of the publishers below. Warhammer 40,000, Kill Team and Warhammer Age of Sigmar are trademarks of Games Workshop Limited. A Song of Ice and Fire: Tabletop Miniatures Game is a trademark of CMON Global Limited. Star Wars: Shatterpoint is a trademark of Lucasfilm Ltd., published by Atomic Mass Games. Marvel: Crisis Protocol is a trademark of Marvel, published by Atomic Mass Games.
+Unofficial, fan-made content. This project is not affiliated with, or endorsed by, any of the publishers below. Warhammer 40,000, Kill Team and Warhammer Age of Sigmar are trademarks of Games Workshop Limited. A Song of Ice and Fire: Tabletop Miniatures Game is a trademark of CMON Global Limited. Star Wars: Shatterpoint and Star Wars: Legion are trademarks of Lucasfilm Ltd., published by Atomic Mass Games. Marvel: Crisis Protocol is a trademark of Marvel, published by Atomic Mass Games.
 
 ## Contents
 
@@ -103,6 +103,18 @@ Available aids:
 - **Terrain & Déplacements Spéciaux / Terrain & Special Movement** — the 4 special movement types (Throw, Push, Place, Climb), Cover requirements, and the Dodge roll procedure
 
 **Note:** the FR and EN rulebooks disagree on the Dodge roll's collision damage — FR uses "size of the thrown element + 1", EN states a flat "3 damage" (confirmed in both the prose and the numbered rules list in each language). Each poster follows its own language's official text rather than reconciling the two.
+
+### Star Wars: Legion (core rulebook)
+
+`starwarslegion/core/<language>/<format>/`
+
+- **fr/** — French version
+
+Available aids:
+- **Séquence d'Attaque Complète** — reference sheet for the 11 official attack steps, condensed into 7 stages (dice pools, Dodge/Cover, results, wounds, Suppression) — the densest attack sequence covered in this project so far
+- **Phase de Commandement & Priorité** — reference sheet for the 6-step Command Phase, incl. the pip-count priority tiebreak and the Pass Pool's Advantage-token formula
+- **Suppression & Panique** — the Rally roll, the Suppressed/Panicked thresholds, borrowed-courage for the Panic check, and null-courage units
+- **Terrain & Couvert** — the 3 terrain categories, 3 movement effects, Cover values, and terrain height
 
 ## How to use
 
