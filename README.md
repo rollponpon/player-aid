@@ -109,12 +109,13 @@ Available aids:
 `starwarslegion/core/<language>/<format>/`
 
 - **fr/** — French version
+- **en/** — English version
 
 Available aids:
-- **Séquence d'Attaque Complète** — reference sheet for the 11 official attack steps, condensed into 7 stages (dice pools, Dodge/Cover, results, wounds, Suppression) — the densest attack sequence covered in this project so far
-- **Phase de Commandement & Priorité** — reference sheet for the 6-step Command Phase, incl. the pip-count priority tiebreak and the Pass Pool's Advantage-token formula
-- **Suppression & Panique** — the Rally roll, the Suppressed/Panicked thresholds, borrowed-courage for the Panic check, and null-courage units
-- **Terrain & Couvert** — the 3 terrain categories, 3 movement effects, Cover values, and terrain height
+- **Séquence d'Attaque Complète / Full Attack Sequence** — reference sheet for the 11 official attack steps, condensed into 7 stages (dice pools, Dodge/Cover, results, wounds, Suppression) — the densest attack sequence covered in this project so far
+- **Phase de Commandement & Priorité / Command Phase & Priority** — reference sheet for the 6-step Command Phase, incl. the pip-count priority tiebreak and the Pass Pool's Advantage-token formula
+- **Suppression & Panique / Suppression & Panic** — the Rally roll, the Suppressed/Panicked thresholds, borrowed-courage for the Panic check, and null-courage units
+- **Terrain & Couvert / Terrain & Cover** — the 3 terrain categories, 3 movement effects, Cover values, and terrain height
 
 ## How to use
 

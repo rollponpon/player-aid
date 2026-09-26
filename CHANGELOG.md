@@ -6,6 +6,15 @@ Entries are grouped by date. Each game keeps its own rules-version folder (e.g. 
 
 ## [Unreleased]
 
+## 2026-09-27
+
+### Added
+- Star Wars: Legion (core rulebook, EN): English translations of all four posters — *Full Attack Sequence*, *Command Phase & Priority*, *Suppression & Panic*, *Terrain & Cover* — sourced from `sw_legion_en.pdf`
+- Combined PDF for the four EN posters
+
+### Fixed
+- The *Terrain & Cover* poster's Cover panel had a layout overflow in the initial EN render (fixed-height panel too short for the English text) — caught before filing, panel resized.
+
 ## 2026-09-26 (3)
 
 ### Added
