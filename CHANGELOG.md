@@ -6,6 +6,19 @@ Entries are grouped by date. Each game keeps its own rules-version folder (e.g. 
 
 ## [Unreleased]
 
+## 2026-09-28
+
+### Added
+- New game: Star Wars: X-Wing (Second Edition, EN only — no French rulebook available), sourced from `xw_core_en.pdf` and cross-checked against `xw_ref_en.pdf` (the Rules Reference glossary) for the exact attack-sequence wording
+- *Performing an Attack* reference sheet (6-step attack sequence)
+- *Round Structure & Initiative Order* reference sheet (5 phases, with the Activation/Engagement initiative-direction asymmetry called out explicitly)
+- *Maneuvers: Execution, Difficulty & Stress* reference sheet (executing a maneuver, stress, partial execution on overlap)
+- *Tokens & Conditions* reference sheet (Stressed/Ionized/Disarmed/Strained, the four action tokens, token colour/shape convention)
+- Combined PDF for all four posters
+
+### Note
+- No GitHub issues existed for this game when checked. Filed under the existing Atomic Mass Games publisher group (X-Wing is also an AMG product, alongside Shatterpoint, Legion, and Crisis Protocol).
+
 ## 2026-09-27
 
 ### Added

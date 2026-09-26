@@ -2,7 +2,7 @@
 
 Illustrated player aids / decision trees to help newer players follow the rules step by step, without having to dig back through the rulebook.
 
-Unofficial, fan-made content. This project is not affiliated with, or endorsed by, any of the publishers below. Warhammer 40,000, Kill Team and Warhammer Age of Sigmar are trademarks of Games Workshop Limited. A Song of Ice and Fire: Tabletop Miniatures Game is a trademark of CMON Global Limited. Star Wars: Shatterpoint and Star Wars: Legion are trademarks of Lucasfilm Ltd., published by Atomic Mass Games. Marvel: Crisis Protocol is a trademark of Marvel, published by Atomic Mass Games. Trench Crusade is a trademark of Factory Fortress.
+Unofficial, fan-made content. This project is not affiliated with, or endorsed by, any of the publishers below. Warhammer 40,000, Kill Team and Warhammer Age of Sigmar are trademarks of Games Workshop Limited. A Song of Ice and Fire: Tabletop Miniatures Game is a trademark of CMON Global Limited. Star Wars: Shatterpoint, Star Wars: Legion and Star Wars: X-Wing are trademarks of Lucasfilm Ltd., published by Atomic Mass Games. Marvel: Crisis Protocol is a trademark of Marvel, published by Atomic Mass Games. Trench Crusade is a trademark of Factory Fortress.
 
 ## Contents
 
@@ -116,6 +116,18 @@ Available aids:
 - **Phase de Commandement & Priorité / Command Phase & Priority** — reference sheet for the 6-step Command Phase, incl. the pip-count priority tiebreak and the Pass Pool's Advantage-token formula
 - **Suppression & Panique / Suppression & Panic** — the Rally roll, the Suppressed/Panicked thresholds, borrowed-courage for the Panic check, and null-courage units
 - **Terrain & Couvert / Terrain & Cover** — the 3 terrain categories, 3 movement effects, Cover values, and terrain height
+
+### Star Wars: X-Wing (Second Edition core rulebook)
+
+`starwarsxwing/v2023/en/<format>/`
+
+- **en/** — English version only (no French rulebook available for this game)
+
+Available aids:
+- **Performing an Attack** — reference sheet for the 6-step attack sequence (Declare Target, Attack/Defense Dice, Neutralize Results, Deal Damage, Aftermath)
+- **Round Structure & Initiative Order** — the 5 phases of a round, with a callout for the Activation-vs-Engagement initiative-order asymmetry (low-to-high moving, high-to-low shooting)
+- **Maneuvers: Execution, Difficulty & Stress** — executing a maneuver, the stress mechanic, and partial execution when a maneuver is blocked by another ship
+- **Tokens & Conditions** — Stressed/Ionized/Disarmed/Strained, the four action tokens (Focus/Evade/Calculate/Lock), and the token colour/shape convention
 
 ## How to use
 
