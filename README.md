@@ -2,7 +2,7 @@
 
 Illustrated player aids / decision trees to help newer players follow the rules step by step, without having to dig back through the rulebook.
 
-Unofficial, fan-made content. This project is not affiliated with, or endorsed by, any of the publishers below. Warhammer 40,000, Kill Team and Warhammer Age of Sigmar are trademarks of Games Workshop Limited. A Song of Ice and Fire: Tabletop Miniatures Game is a trademark of CMON Global Limited. Star Wars: Shatterpoint and Star Wars: Legion are trademarks of Lucasfilm Ltd., published by Atomic Mass Games. Marvel: Crisis Protocol is a trademark of Marvel, published by Atomic Mass Games.
+Unofficial, fan-made content. This project is not affiliated with, or endorsed by, any of the publishers below. Warhammer 40,000, Kill Team and Warhammer Age of Sigmar are trademarks of Games Workshop Limited. A Song of Ice and Fire: Tabletop Miniatures Game is a trademark of CMON Global Limited. Star Wars: Shatterpoint and Star Wars: Legion are trademarks of Lucasfilm Ltd., published by Atomic Mass Games. Marvel: Crisis Protocol is a trademark of Marvel, published by Atomic Mass Games. Trench Crusade is a trademark of Factory Fortress.
 
 ## Contents
 
