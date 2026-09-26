@@ -83,7 +83,37 @@
     color: var(--navy);
     margin: 0 0 6px;
   }
-  p.section-sub { margin: 0 0 32px; color: var(--muted); font-size: 15px; }
+  p.section-sub { margin: 0 0 20px; color: var(--muted); font-size: 15px; }
+
+  nav.pub-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 36px;
+  }
+  nav.pub-nav a {
+    background: var(--panel);
+    border: 1.5px solid var(--panel-border);
+    border-radius: 20px;
+    padding: 7px 16px;
+    font-size: 13.5px;
+    font-weight: 700;
+    text-decoration: none;
+    color: var(--navy);
+  }
+  nav.pub-nav a:hover { background: var(--accent); border-color: var(--accent); color: var(--navy); }
+
+  .publisher { margin-bottom: 44px; scroll-margin-top: 20px; }
+  .publisher-title {
+    font-size: 15px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: var(--muted);
+    padding-bottom: 10px;
+    margin: 0 0 20px;
+    border-bottom: 2px solid var(--panel-border);
+  }
 
   .game {
     border: 1.5px solid var(--panel-border);
@@ -201,6 +231,44 @@
   <h2 class="section-title">Games</h2>
   <p class="section-sub">Click a poster name to open it full-size, or grab the combined PDF for that language.</p>
 
+  <nav class="pub-nav">
+    <a href="#games-workshop">Games Workshop</a>
+    <a href="#atomic-mass-games">Atomic Mass Games</a>
+    <a href="#factory-fortress">Factory Fortress</a>
+    <a href="#coolminiornot">CoolMiniOrNot</a>
+  </nav>
+
+  <div class="publisher" id="games-workshop">
+  <div class="publisher-title">Games Workshop</div>
+
+  <!-- AGE OF SIGMAR -->
+  <section class="game">
+    <div class="game-head">
+      <h3>Warhammer Age of Sigmar</h3>
+      <div class="edition">Core rules &middot; v2026</div>
+    </div>
+    <div class="langs">
+      <div class="lang-col fr">
+        <span class="lang-label">FR</span>
+        <ul class="aids">
+          <li><a href="ageofsigmar/v2026/fr/png/aos_sequence.png">Séquence d'Attaque &amp; de Dégâts</a></li>
+          <li><a href="ageofsigmar/v2026/fr/png/aos_ordre_melee.png">Quelle unité combat ensuite ?</a></li>
+          <li><a href="ageofsigmar/v2026/fr/png/aos_aptitudes_chronologie.png">Aptitudes : Chronologie &amp; Règles de Un</a></li>
+        </ul>
+        <a class="pdf-btn" href="ageofsigmar/v2026/fr/pdf/aos_aides_de_jeu.pdf">&#8681; PDF combiné</a>
+      </div>
+      <div class="lang-col en">
+        <span class="lang-label">EN</span>
+        <ul class="aids">
+          <li><a href="ageofsigmar/v2026/en/png/aos_sequence.png">Attack &amp; Damage Sequence</a></li>
+          <li><a href="ageofsigmar/v2026/en/png/aos_fight_order.png">Which Unit Fights Next?</a></li>
+          <li><a href="ageofsigmar/v2026/en/png/aos_ability_timing.png">Abilities: Timing &amp; the Rules of One</a></li>
+        </ul>
+        <a class="pdf-btn" href="ageofsigmar/v2026/en/pdf/aos_game_aids.pdf">&#8681; Combined PDF</a>
+      </div>
+    </div>
+  </section>
+
   <!-- WARHAMMER 40K -->
   <section class="game">
     <div class="game-head">
@@ -233,65 +301,103 @@
     </div>
   </section>
 
-  <!-- KILL TEAM -->
+  </div><!-- /games-workshop -->
+
+  <div class="publisher" id="atomic-mass-games">
+  <div class="publisher-title">Atomic Mass Games</div>
+
+  <!-- SHATTERPOINT -->
   <section class="game">
     <div class="game-head">
-      <h3>Kill Team</h3>
-      <div class="edition">3rd edition &middot; v3</div>
+      <h3>Star Wars: Shatterpoint</h3>
+      <div class="edition">Core rules &middot; v2023</div>
     </div>
     <div class="langs">
       <div class="lang-col fr">
         <span class="lang-label">FR</span>
         <ul class="aids">
-          <li><a href="killteam/v3/fr/png/kt_tir_couvert.png">Puis-je tirer sur cette cible ?</a></li>
-          <li><a href="killteam/v3/fr/png/kt_promontoire.png">Règles de Promontoire</a></li>
-          <li><a href="killteam/v3/fr/png/kt_actions_pa.png">Actions &amp; PA</a></li>
-          <li><a href="killteam/v3/fr/png/kt_manoeuvres_contre_attaque.png">Manœuvres &amp; Contre-attaque</a></li>
+          <li><a href="shatterpoint/v2023/fr/png/sp_attaque.png">Résoudre une attaque</a></li>
+          <li><a href="shatterpoint/v2023/fr/png/sp_arbre_combat.png">Les Dés &amp; l'Arbre de Combat</a></li>
+          <li><a href="shatterpoint/v2023/fr/png/sp_etats.png">États</a></li>
+          <li><a href="shatterpoint/v2023/fr/png/sp_blesse_estropie.png">Blessé, Estropié &amp; Vaincu</a></li>
         </ul>
-        <a class="pdf-btn" href="killteam/v3/fr/pdf/kt_aides_de_jeu.pdf">&#8681; PDF combiné</a>
+        <a class="pdf-btn" href="shatterpoint/v2023/fr/pdf/sp_aides_de_jeu.pdf">&#8681; PDF combiné</a>
       </div>
       <div class="lang-col en">
         <span class="lang-label">EN</span>
         <ul class="aids">
-          <li><a href="killteam/v3/en/png/kt_shooting_cover.png">Can I Shoot This Target?</a></li>
-          <li><a href="killteam/v3/en/png/kt_vantage_terrain.png">Vantage Terrain Rules</a></li>
-          <li><a href="killteam/v3/en/png/kt_actions_ap.png">Actions &amp; AP</a></li>
-          <li><a href="killteam/v3/en/png/kt_gambit_counteract.png">Gambit &amp; Counteract Timing</a></li>
+          <li><a href="shatterpoint/v2023/en/png/sp_attack.png">Making an Attack</a></li>
+          <li><a href="shatterpoint/v2023/en/png/sp_combat_tree.png">The Dice &amp; the Combat Tree</a></li>
+          <li><a href="shatterpoint/v2023/en/png/sp_conditions.png">Conditions</a></li>
+          <li><a href="shatterpoint/v2023/en/png/sp_wounded.png">Wounded, Injured &amp; Defeated</a></li>
         </ul>
-        <a class="pdf-btn" href="killteam/v3/en/pdf/kt_game_aids.pdf">&#8681; Combined PDF</a>
+        <a class="pdf-btn" href="shatterpoint/v2023/en/pdf/sp_game_aids.pdf">&#8681; Combined PDF</a>
       </div>
     </div>
   </section>
 
-  <!-- ASOIAF -->
+  <!-- STAR WARS: LEGION -->
   <section class="game">
     <div class="game-head">
-      <h3>A Song of Ice and Fire: Tabletop Miniatures Game</h3>
-      <div class="edition">v2021</div>
+      <h3>Star Wars: Legion</h3>
+      <div class="edition">Core rulebook</div>
     </div>
     <div class="langs">
       <div class="lang-col fr">
         <span class="lang-label">FR</span>
         <ul class="aids">
-          <li><a href="asoiaf/v2021/fr/png/asoiaf_sequence.png">Séquence d'attaque</a></li>
-          <li><a href="asoiaf/v2021/fr/png/asoiaf_charge.png">Puis-je déclarer une charge ?</a></li>
-          <li><a href="asoiaf/v2021/fr/png/asoiaf_priority.png">Cartes, Ordres &amp; Priorité</a></li>
-          <li><a href="asoiaf/v2021/fr/png/asoiaf_terrain.png">Terrain : Mots-Clés &amp; Exemples</a></li>
+          <li><a href="starwarslegion/core/fr/png/swl_sequence.png">Séquence d'Attaque Complète</a></li>
+          <li><a href="starwarslegion/core/fr/png/swl_commandement.png">Phase de Commandement &amp; Priorité</a></li>
+          <li><a href="starwarslegion/core/fr/png/swl_suppression_panique.png">Suppression &amp; Panique</a></li>
+          <li><a href="starwarslegion/core/fr/png/swl_terrain_couvert.png">Terrain &amp; Couvert</a></li>
         </ul>
-        <a class="pdf-btn" href="asoiaf/v2021/fr/pdf/asoiaf_aides_de_jeu.pdf">&#8681; PDF combiné</a>
+        <a class="pdf-btn" href="starwarslegion/core/fr/pdf/swl_aides_de_jeu.pdf">&#8681; PDF combiné</a>
       </div>
       <div class="lang-col en">
         <span class="lang-label">EN</span>
         <ul class="aids">
-          <li><a href="asoiaf/v2021/en/png/asoiaf_sequence.png">Attack Sequence</a></li>
-          <li><a href="asoiaf/v2021/en/png/asoiaf_charge.png">Can I Declare a Charge?</a></li>
-          <li><a href="asoiaf/v2021/en/png/asoiaf_priority.png">Cards, Orders &amp; Priority</a></li>
-          <li><a href="asoiaf/v2021/en/png/asoiaf_terrain.png">Terrain: Keywords &amp; Examples</a></li>
+          <li><a href="starwarslegion/core/en/png/swl_sequence.png">Full Attack Sequence</a></li>
+          <li><a href="starwarslegion/core/en/png/swl_command_phase.png">Command Phase &amp; Priority</a></li>
+          <li><a href="starwarslegion/core/en/png/swl_suppression_panic.png">Suppression &amp; Panic</a></li>
+          <li><a href="starwarslegion/core/en/png/swl_terrain_cover.png">Terrain &amp; Cover</a></li>
         </ul>
-        <a class="pdf-btn" href="asoiaf/v2021/en/pdf/asoiaf_game_aids.pdf">&#8681; Combined PDF</a>
+        <a class="pdf-btn" href="starwarslegion/core/en/pdf/swl_game_aids.pdf">&#8681; Combined PDF</a>
       </div>
     </div>
   </section>
+
+  <!-- MARVEL CRISIS PROTOCOL -->
+  <section class="game">
+    <div class="game-head">
+      <h3>Marvel: Crisis Protocol</h3>
+      <div class="edition">Revised Core Set &middot; v2026</div>
+    </div>
+    <div class="langs">
+      <div class="lang-col fr">
+        <span class="lang-label">FR</span>
+        <ul class="aids">
+          <li><a href="crisisprotocol/v2026/fr/png/mcp_sequence.png">Séquence d'Attaque</a></li>
+          <li><a href="crisisprotocol/v2026/fr/png/mcp_etats_speciaux.png">États Spéciaux</a></li>
+          <li><a href="crisisprotocol/v2026/fr/png/mcp_terrain_deplacements.png">Terrain &amp; Déplacements Spéciaux</a></li>
+        </ul>
+        <a class="pdf-btn" href="crisisprotocol/v2026/fr/pdf/mcp_aides_de_jeu.pdf">&#8681; PDF combiné</a>
+      </div>
+      <div class="lang-col en">
+        <span class="lang-label">EN</span>
+        <ul class="aids">
+          <li><a href="crisisprotocol/v2026/en/png/mcp_sequence.png">Attack Sequence</a></li>
+          <li><a href="crisisprotocol/v2026/en/png/mcp_special_conditions.png">Special Conditions</a></li>
+          <li><a href="crisisprotocol/v2026/en/png/mcp_terrain_movement.png">Terrain &amp; Special Movement</a></li>
+        </ul>
+        <a class="pdf-btn" href="crisisprotocol/v2026/en/pdf/mcp_game_aids.pdf">&#8681; Combined PDF</a>
+      </div>
+    </div>
+  </section>
+
+  </div><!-- /atomic-mass-games -->
+
+  <div class="publisher" id="factory-fortress">
+  <div class="publisher-title">Factory Fortress</div>
 
   <!-- TRENCH CRUSADE -->
   <section class="game">
@@ -327,121 +433,42 @@
     </div>
   </section>
 
-  <!-- SHATTERPOINT -->
+  </div><!-- /factory-fortress -->
+
+  <div class="publisher" id="coolminiornot">
+  <div class="publisher-title">CoolMiniOrNot</div>
+
+  <!-- ASOIAF -->
   <section class="game">
     <div class="game-head">
-      <h3>Star Wars: Shatterpoint</h3>
-      <div class="edition">Core rules &middot; v2023</div>
+      <h3>A Song of Ice and Fire: Tabletop Miniatures Game</h3>
+      <div class="edition">v2021</div>
     </div>
     <div class="langs">
       <div class="lang-col fr">
         <span class="lang-label">FR</span>
         <ul class="aids">
-          <li><a href="shatterpoint/v2023/fr/png/sp_attaque.png">Résoudre une attaque</a></li>
-          <li><a href="shatterpoint/v2023/fr/png/sp_arbre_combat.png">Les Dés &amp; l'Arbre de Combat</a></li>
-          <li><a href="shatterpoint/v2023/fr/png/sp_etats.png">États</a></li>
-          <li><a href="shatterpoint/v2023/fr/png/sp_blesse_estropie.png">Blessé, Estropié &amp; Vaincu</a></li>
+          <li><a href="asoiaf/v2021/fr/png/asoiaf_sequence.png">Séquence d'attaque</a></li>
+          <li><a href="asoiaf/v2021/fr/png/asoiaf_charge.png">Puis-je déclarer une charge ?</a></li>
+          <li><a href="asoiaf/v2021/fr/png/asoiaf_priority.png">Cartes, Ordres &amp; Priorité</a></li>
+          <li><a href="asoiaf/v2021/fr/png/asoiaf_terrain.png">Terrain : Mots-Clés &amp; Exemples</a></li>
         </ul>
-        <a class="pdf-btn" href="shatterpoint/v2023/fr/pdf/sp_aides_de_jeu.pdf">&#8681; PDF combiné</a>
+        <a class="pdf-btn" href="asoiaf/v2021/fr/pdf/asoiaf_aides_de_jeu.pdf">&#8681; PDF combiné</a>
       </div>
       <div class="lang-col en">
         <span class="lang-label">EN</span>
         <ul class="aids">
-          <li><a href="shatterpoint/v2023/en/png/sp_attack.png">Making an Attack</a></li>
-          <li><a href="shatterpoint/v2023/en/png/sp_combat_tree.png">The Dice &amp; the Combat Tree</a></li>
-          <li><a href="shatterpoint/v2023/en/png/sp_conditions.png">Conditions</a></li>
-          <li><a href="shatterpoint/v2023/en/png/sp_wounded.png">Wounded, Injured &amp; Defeated</a></li>
+          <li><a href="asoiaf/v2021/en/png/asoiaf_sequence.png">Attack Sequence</a></li>
+          <li><a href="asoiaf/v2021/en/png/asoiaf_charge.png">Can I Declare a Charge?</a></li>
+          <li><a href="asoiaf/v2021/en/png/asoiaf_priority.png">Cards, Orders &amp; Priority</a></li>
+          <li><a href="asoiaf/v2021/en/png/asoiaf_terrain.png">Terrain: Keywords &amp; Examples</a></li>
         </ul>
-        <a class="pdf-btn" href="shatterpoint/v2023/en/pdf/sp_game_aids.pdf">&#8681; Combined PDF</a>
+        <a class="pdf-btn" href="asoiaf/v2021/en/pdf/asoiaf_game_aids.pdf">&#8681; Combined PDF</a>
       </div>
     </div>
   </section>
 
-  <!-- AGE OF SIGMAR -->
-  <section class="game">
-    <div class="game-head">
-      <h3>Warhammer Age of Sigmar</h3>
-      <div class="edition">Core rules &middot; v2026</div>
-    </div>
-    <div class="langs">
-      <div class="lang-col fr">
-        <span class="lang-label">FR</span>
-        <ul class="aids">
-          <li><a href="ageofsigmar/v2026/fr/png/aos_sequence.png">Séquence d'Attaque &amp; de Dégâts</a></li>
-          <li><a href="ageofsigmar/v2026/fr/png/aos_ordre_melee.png">Quelle unité combat ensuite ?</a></li>
-          <li><a href="ageofsigmar/v2026/fr/png/aos_aptitudes_chronologie.png">Aptitudes : Chronologie &amp; Règles de Un</a></li>
-        </ul>
-        <a class="pdf-btn" href="ageofsigmar/v2026/fr/pdf/aos_aides_de_jeu.pdf">&#8681; PDF combiné</a>
-      </div>
-      <div class="lang-col en">
-        <span class="lang-label">EN</span>
-        <ul class="aids">
-          <li><a href="ageofsigmar/v2026/en/png/aos_sequence.png">Attack &amp; Damage Sequence</a></li>
-          <li><a href="ageofsigmar/v2026/en/png/aos_fight_order.png">Which Unit Fights Next?</a></li>
-          <li><a href="ageofsigmar/v2026/en/png/aos_ability_timing.png">Abilities: Timing &amp; the Rules of One</a></li>
-        </ul>
-        <a class="pdf-btn" href="ageofsigmar/v2026/en/pdf/aos_game_aids.pdf">&#8681; Combined PDF</a>
-      </div>
-    </div>
-  </section>
-
-  <!-- MARVEL CRISIS PROTOCOL -->
-  <section class="game">
-    <div class="game-head">
-      <h3>Marvel: Crisis Protocol</h3>
-      <div class="edition">Revised Core Set &middot; v2026</div>
-    </div>
-    <div class="langs">
-      <div class="lang-col fr">
-        <span class="lang-label">FR</span>
-        <ul class="aids">
-          <li><a href="crisisprotocol/v2026/fr/png/mcp_sequence.png">Séquence d'Attaque</a></li>
-          <li><a href="crisisprotocol/v2026/fr/png/mcp_etats_speciaux.png">États Spéciaux</a></li>
-          <li><a href="crisisprotocol/v2026/fr/png/mcp_terrain_deplacements.png">Terrain &amp; Déplacements Spéciaux</a></li>
-        </ul>
-        <a class="pdf-btn" href="crisisprotocol/v2026/fr/pdf/mcp_aides_de_jeu.pdf">&#8681; PDF combiné</a>
-      </div>
-      <div class="lang-col en">
-        <span class="lang-label">EN</span>
-        <ul class="aids">
-          <li><a href="crisisprotocol/v2026/en/png/mcp_sequence.png">Attack Sequence</a></li>
-          <li><a href="crisisprotocol/v2026/en/png/mcp_special_conditions.png">Special Conditions</a></li>
-          <li><a href="crisisprotocol/v2026/en/png/mcp_terrain_movement.png">Terrain &amp; Special Movement</a></li>
-        </ul>
-        <a class="pdf-btn" href="crisisprotocol/v2026/en/pdf/mcp_game_aids.pdf">&#8681; Combined PDF</a>
-      </div>
-    </div>
-  </section>
-
-  <!-- STAR WARS: LEGION -->
-  <section class="game">
-    <div class="game-head">
-      <h3>Star Wars: Legion</h3>
-      <div class="edition">Core rulebook</div>
-    </div>
-    <div class="langs">
-      <div class="lang-col fr">
-        <span class="lang-label">FR</span>
-        <ul class="aids">
-          <li><a href="starwarslegion/core/fr/png/swl_sequence.png">Séquence d'Attaque Complète</a></li>
-          <li><a href="starwarslegion/core/fr/png/swl_commandement.png">Phase de Commandement &amp; Priorité</a></li>
-          <li><a href="starwarslegion/core/fr/png/swl_suppression_panique.png">Suppression &amp; Panique</a></li>
-          <li><a href="starwarslegion/core/fr/png/swl_terrain_couvert.png">Terrain &amp; Couvert</a></li>
-        </ul>
-        <a class="pdf-btn" href="starwarslegion/core/fr/pdf/swl_aides_de_jeu.pdf">&#8681; PDF combiné</a>
-      </div>
-      <div class="lang-col en">
-        <span class="lang-label">EN</span>
-        <ul class="aids">
-          <li><a href="starwarslegion/core/en/png/swl_sequence.png">Full Attack Sequence</a></li>
-          <li><a href="starwarslegion/core/en/png/swl_command_phase.png">Command Phase &amp; Priority</a></li>
-          <li><a href="starwarslegion/core/en/png/swl_suppression_panic.png">Suppression &amp; Panic</a></li>
-          <li><a href="starwarslegion/core/en/png/swl_terrain_cover.png">Terrain &amp; Cover</a></li>
-        </ul>
-        <a class="pdf-btn" href="starwarslegion/core/en/pdf/swl_game_aids.pdf">&#8681; Combined PDF</a>
-      </div>
-    </div>
-  </section>
+  </div><!-- /coolminiornot -->
 
 </main>
 
